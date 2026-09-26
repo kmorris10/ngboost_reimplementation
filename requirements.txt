@@ -1,0 +1,8 @@
+lifelines==0.30.3
+matplotlib==3.11.2
+ngboost==0.5.11
+numpy==2.4.6
+pandas==2.3.3
+scikit-learn==1.9.1
+scipy==1.17.1
+tqdm==4.70.1

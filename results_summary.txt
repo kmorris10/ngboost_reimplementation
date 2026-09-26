@@ -1,0 +1,8 @@
+Concrete Compressive Strength (N=1030), 20 repeats, NGBoost reproduction
+==============================================================================
+Method                      Test NLL            Test RMSE           
+Duan et al. (2020) paper    3.04 +/- 0.17      5.06 +/- 0.61
+Ours (from scratch)         3.06 +/- 0.15      5.48 +/- 0.61
+Official ngboost package    3.05 +/- 0.16      5.42 +/- 0.66
+
+Total run time: 321.5 sec
