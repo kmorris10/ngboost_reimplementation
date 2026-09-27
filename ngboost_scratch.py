@@ -14,7 +14,7 @@ HTIN5005 Assignment 1, Part B. It follows Algorithm 1 and the analysis in:
     Duan, T., Avati, A., Ding, D. Y., Thai, K. K., Basu, S., Ng, A., &
     Schuler, A. (2020). NGBoost: Natural Gradient Boosting for Probabilistic
     Prediction. Proceedings of the 37th International Conference on Machine
-    Learning (ICML), PMLR 108/119. arXiv:1910.03225.
+    Learning (ICML), PMLR 119. arXiv:1910.03225.
 
 The official reference implementation released by the authors,
     https://github.com/stanfordmlgroup/ngboost
