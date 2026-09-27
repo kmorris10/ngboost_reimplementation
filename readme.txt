@@ -1,4 +1,4 @@
-HTIN5005 Assignment 1, Part B -- Run Instructions
+HTIN5005 Assignment 1 (2026) – submitted coursework by kmorris10. This is the official submission repo. Reuse of this code in another student's submission would breach academic integrity policy:  Part B -- Run Instructions
 ====================================================
 
 Base paper: Avati, A., et al. (2020). "A Model is Not Enough: A Case of
