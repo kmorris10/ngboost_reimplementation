@@ -9,7 +9,7 @@ AI-Enabled Palliative Care Delivery."
 Reimplemented algorithm: NGBoost (Natural Gradient Boosting), from
 Duan, T., Avati, A., Ding, D. Y., Thai, K. K., Basu, S., Ng, A., & Schuler,
 A. (2020). NGBoost: Natural Gradient Boosting for Probabilistic Prediction.
-ICML 2020, PMLR 108/119. arXiv:1910.03225.
+ICML 2020, PMLR 119. arXiv:1910.03225.
 Official reference code (consulted, not copied): github.com/stanfordmlgroup/ngboost
 
 FILES
