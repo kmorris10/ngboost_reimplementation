@@ -35,7 +35,7 @@ CITATION FOR THE REIMPLEMENTED ALGORITHM
 ------------------------------------------
 Duan, T., Avati, A., Ding, D. Y., Thai, K. K., Basu, S., Ng, A., & Schuler,
 A. (2020). NGBoost: Natural Gradient Boosting for Probabilistic Prediction.
-Proceedings of the 37th ICML, PMLR 108/119. arXiv:1910.03225.
+Proceedings of the 37th ICML, PMLR 119. arXiv:1910.03225.
 Official code (reference only, not copied): github.com/stanfordmlgroup/ngboost
 """
 
